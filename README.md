@@ -3,7 +3,7 @@ a scrapy project
 
 Programmed in
 - scrapy
-- mangodb
+- mongodb
 - response + selenium
 
 爬取源
